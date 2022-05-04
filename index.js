@@ -1,1 +1,2 @@
-// Write your solution here!
+allcats.push(...cats, "Ralph");
+console.log(allcats)
